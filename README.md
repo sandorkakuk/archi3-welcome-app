@@ -1,4 +1,4 @@
-# ArcoLinux Welcome App
+# Archi3 Welcome App
 
 This application provides an interface to launch Calamares which installs ArcoLinux onto your system from a Live ISO environment.
 
